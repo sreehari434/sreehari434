@@ -11,4 +11,6 @@ rebase commit2
 rebase commit3
 rebase commit4
 master commit3
+rebase commit2
+
 
