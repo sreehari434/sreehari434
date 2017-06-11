@@ -4,3 +4,4 @@ new line
 added
 
 master commit1
+master commit2
