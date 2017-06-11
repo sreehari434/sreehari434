@@ -3,5 +3,8 @@ test
 new line
 added
 
+
 master commit1
 master commit2
+rebase commit1
+
