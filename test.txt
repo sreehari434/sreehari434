@@ -9,4 +9,5 @@ master commit2
 rebase commit1
 rebase commit2
 rebase commit3
+rebase commit4
 
