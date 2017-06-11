@@ -7,4 +7,5 @@ added
 master commit1
 master commit2
 rebase commit1
+rebase commit2
 
