@@ -3,5 +3,11 @@ test
 new line
 added
 
+
 master commit1
 master commit2
+rebase commit1
+rebase commit2
+rebase commit3
+rebase commit4
+
